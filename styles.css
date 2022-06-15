@@ -1,0 +1,68 @@
+.t{
+  text-align: center;
+  font-size: 42px; 
+  font-family: arial;
+  margin-top: 60px;
+  opacity: 0.75
+}
+
+.f{
+  background-color: #eee
+}
+
+.st{
+  text-align: center;
+  font-size: 15px;
+  font-family: sans-serif; 
+  Margin-top: -30px; 
+}
+.img1{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 0 auto;
+  margin-top: 0;
+}
+
+.sst{
+  text-align: center;
+  font-size: 15px;
+  font-family: sans-serif;
+  Margin-top: 33px; 
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 18px;
+  opacity:  0.5;
+
+}
+  
+.ssst{
+  text-align: center;
+  font-size: 27px;
+  font-family: arial;
+  Margin-top: 33px; 
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto; 
+  margin-bottom: 27px;
+  opacity:  0.8;
+}
+.ld{
+    
+    max-width: 600px;
+    margin: 0 auto 0 auto;
+}
+.li{
+  margin-bottom: 15px;
+  font-size: 18px;
+  font-family: BlinkMacSystemFont;
+  opacity: 0.8;
+}
+ .tn{
+     margin-bottom: 15px;
+  font-size: 22px;
+  font-family: Arial;
+  font-weight: bold;
+}
+
